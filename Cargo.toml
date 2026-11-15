@@ -1,0 +1,6 @@
+[package]
+name = "betteroffice-sheets"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS BetterOffice Sheets — web-based spreadsheet engine"
+license = "GPL-3.0-or-later"
