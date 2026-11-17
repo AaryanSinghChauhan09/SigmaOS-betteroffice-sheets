@@ -3,7 +3,7 @@ name = "SigmaOS-betteroffice-sheets"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "betteroffice-sheets component"
+description = "betteroffice sheets component"
 upstream = []
 
 [contract]
